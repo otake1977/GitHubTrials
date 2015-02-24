@@ -1,2 +1,2 @@
 # GitHubTrials
-Trials of git
+Trials of git - updated
